@@ -2,7 +2,6 @@
     background-color: #1F2034;
 }
 
-/*-----Styling for emailing form-----*/
 .container {
     width: 40%;
     margin: auto;
@@ -28,4 +27,7 @@
     border: none;
     border-radius: 4px;
     cursor: pointer;
+  }
+  .card-deck {
+    margin: 0 !important;
   }
